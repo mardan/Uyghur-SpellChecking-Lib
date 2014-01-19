@@ -1,4 +1,4 @@
-Uyghur SpellChecking Library
+Uyghur Spell Checking Library
 ========================
 
 An Uyghur spell checking library written in .NET
